@@ -2,7 +2,16 @@
 
 こちらは慶應義塾大学SF研究会のorganizationです。
 
-githubアカウントを登録して、当organizationに招待されることで、会誌
+githubアカウントを登録して、当organizationに招待されることで、会誌の編集フォルダ、会計情報を集めたフォルダ、等々当会の全ての情報にアクセスできます。
+
+## アカウント作成・二段階認証の設定
+
+一般的なwebサービスと同様の手順。[サイト](https://github.com/)にアクセスし、サインアップからメールアドレスとパスワードを登録する。登録後は二段階認証も設定しよう。  
+二段階認証設定時には、スマホなどの紛失に備えてリカバリーコードをダウンロードしておく。
+
+- [アカウントの作成方法](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github)
+- [二段階認証の設定方法](https://qiita.com/kanamekun/items/c307c942508e9d64c35b)
+
 
 <!--
 
