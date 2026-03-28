@@ -2,7 +2,7 @@
 
 こちらは慶應義塾大学SF研究会のorganizationです。
 
-githubアカウントを登録して、当organizationに招待されることで
+githubアカウントを登録して、当organizationに招待されることで、会誌
 
 <!--
 
