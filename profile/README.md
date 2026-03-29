@@ -1,6 +1,6 @@
 # 慶應義塾大学SF研究会
 
-> [!TIPS]
+> [!Tips]
 > こちらはOrganization 未参加に向けた表示です。organizationへの参加が完了した方は、枠外右、もしくは下にあるトグルをPublic からMembersに変更し、メンバー向けのOverviewを、参照してください。
 
 githubアカウントを登録して、当organizationに招待されることで、会誌の編集フォルダ、会計情報を集めたフォルダ、等々当会の全ての情報にアクセスできます。
