@@ -4,8 +4,6 @@
 > こちらは `Public` (Organization 未参加者向け) 表示です。Organization への参加が完了した方は、枠外右、もしくは下にあるトグル 
 `View as:` を `Public` から `Member` に変更し、メンバー向けのOverviewを参照してください。
 
-> [!NOTE]
-
 > [!IMPORTANT]
 > PCのブラウザで作業してください。
 
